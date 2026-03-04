@@ -488,5 +488,5 @@ cmrbd <- function(df, value_col = "value", affected_label = "Affected", n_perm =
 
 # Example usage:
 # df <- read.csv("toydata.csv", header = TRUE)
-result <- cmrbd(toydata, value_col = "Trait_val", affected_label = 1)
+# result <- cmrbd(toydata, value_col = "Trait_val", affected_label = 1)
 # print(result)
