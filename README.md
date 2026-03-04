@@ -1,14 +1,6 @@
 ---
 title: 'R Manual: Identifying Comorbid Endophenotype for a Binary Disease Using Clustered Data'
 author: "Prasun Panja"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
-  pdf_document:
-    toc: true
-    toc_depth: '3'
 ---
 
 # Overview
